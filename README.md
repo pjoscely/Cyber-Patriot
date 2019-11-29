@@ -1,2 +1,2 @@
 # R-Programs
-Various R Projects
+Various R Projects to explore R functionality.
